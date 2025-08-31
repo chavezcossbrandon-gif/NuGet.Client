@@ -6,7 +6,9 @@
 
 This repo contains the following clients:
 
-- [NuGet CLI](https://docs.microsoft.com/nuget/tools/nuget-exe-cli-reference)
+- [NuGet CLI](https://docs.microsoft.com/n.
+
+uget/tools/nuget-exe-cli-reference)
 - [NuGet Package Manager for Visual Studio](https://docs.microsoft.com/nuget/tools/package-manager-ui)
 - [PowerShell CmdLets](https://docs.microsoft.com/nuget/tools/powershell-reference)
 - [NuGet functionality for dotnet.exe](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet)
